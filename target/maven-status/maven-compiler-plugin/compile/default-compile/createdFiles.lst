@@ -1,0 +1,11 @@
+fon\silab\templatepatern\writer\AbstractWriter.class
+fon\silab\templatepatern\domain\Student.class
+fon\silab\templatepatern\reader\XMLReader.class
+fon\silab\templatepatern\main\Main.class
+fon\silab\templatepatern\domain\Report.class
+fon\silab\templatepatern\domain\Manager.class
+fon\silab\templatepatern\domain\Index.class
+fon\silab\templatepatern\writer\JSONWriter.class
+fon\silab\templatepatern\writer\XMLWriter.class
+fon\silab\templatepatern\reader\AbstractReader.class
+fon\silab\templatepatern\reader\JSONReader.class
